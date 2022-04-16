@@ -1,0 +1,1 @@
+{"name":"Local: rectangle_count","url":"/home/amitrix/workplace/coding_Block/MapSTL/rectangle_count.cpp","tests":[{"id":1646307565173,"input":"8\n0 0\n0 1\n1 1\n1 0\n2 1\n2 0\n3 1\n3 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/MapSTL/rectangle_count.cpp","group":"local","local":true}

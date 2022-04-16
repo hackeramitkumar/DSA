@@ -1,0 +1,1 @@
+{"name":"Local: unique_string","url":"/home/amitrix/workplace/coding_Block/string/unique_string.cpp","tests":[{"id":1649961183035,"input":"3\nab\ncd\nab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/string/unique_string.cpp","group":"local","local":true}

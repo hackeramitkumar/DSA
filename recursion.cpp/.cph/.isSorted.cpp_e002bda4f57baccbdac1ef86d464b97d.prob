@@ -1,0 +1,1 @@
+{"name":"Local: isSorted","url":"/home/amitrix/workplace/coding_Block/recursion.cpp/isSorted.cpp","tests":[{"id":1643014022719,"input":"5\n1 2 3 6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/recursion.cpp/isSorted.cpp","group":"local","local":true}

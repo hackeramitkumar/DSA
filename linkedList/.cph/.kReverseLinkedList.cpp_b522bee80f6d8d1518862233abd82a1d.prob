@@ -1,0 +1,1 @@
+{"name":"Local: kReverseLinkedList","url":"/home/amitrix/workplace/coding_Block/linkedList/kReverseLinkedList.cpp","tests":[{"id":1644652679515,"input":"9 3\n9 4 1 7 8 3 2 6 5","output":"1 4 9 3 8 7 5 6 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/linkedList/kReverseLinkedList.cpp","group":"local","local":true}

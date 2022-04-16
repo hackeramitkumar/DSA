@@ -1,0 +1,1 @@
+{"name":"Local: magical_park","url":"/home/amitrix/workplace/coding_Block/character_Array/magical_park.cpp","tests":[{"id":1648659084807,"input":"4 4 5 20\n. . * .\n. # . .\n* * . .\n. # * *","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/character_Array/magical_park.cpp","group":"local","local":true}

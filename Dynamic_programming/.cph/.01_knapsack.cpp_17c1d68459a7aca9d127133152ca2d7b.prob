@@ -1,0 +1,1 @@
+{"name":"Local: 01_knapsack","url":"/home/amitrix/workplace/coding_Block/Dynamic_programming/01_knapsack.cpp","tests":[{"id":1647403800817,"input":"3 50\n60 100 120\n10 20 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/Dynamic_programming/01_knapsack.cpp","group":"local","local":true}

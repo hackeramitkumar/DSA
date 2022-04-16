@@ -1,0 +1,1 @@
+{"name":"Local: redundentBraces","url":"/home/amitrix/workplace/coding_Block/stack/redundentBraces.cpp","tests":[{"id":1644924407732,"input":"1\n(((a+g)+(c+d))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/stack/redundentBraces.cpp","group":"local","local":true}

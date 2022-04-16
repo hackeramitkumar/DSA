@@ -1,0 +1,1 @@
+{"name":"Local: book_allocation","url":"/home/amitrix/workplace/coding_Block/binarysearch/book_allocation.cpp","tests":[{"id":1642151418101,"input":"1\n4 2\n12 34 67 90","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/binarysearch/book_allocation.cpp","group":"local","local":true}

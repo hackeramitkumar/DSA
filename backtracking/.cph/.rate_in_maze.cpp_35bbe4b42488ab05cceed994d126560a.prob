@@ -1,0 +1,1 @@
+{"name":"Local: rate_in_maze","url":"/home/amitrix/workplace/coding_Block/backtracking/rate_in_maze.cpp","tests":[{"id":1644442993052,"input":"5 4\nOOOO\nXOOX\nOOXO\nXOOO\nXXOO","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/backtracking/rate_in_maze.cpp","group":"local","local":true}

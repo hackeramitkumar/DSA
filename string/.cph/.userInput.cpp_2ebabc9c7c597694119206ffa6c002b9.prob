@@ -1,0 +1,1 @@
+{"name":"Local: userInput","url":"/home/amitrix/workplace/coding_Block/string/userInput.cpp","tests":[{"id":1641565957625,"input":"hello world!","output":"hello world!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/string/userInput.cpp","group":"local","local":true}

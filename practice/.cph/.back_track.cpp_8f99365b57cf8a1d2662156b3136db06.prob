@@ -1,0 +1,1 @@
+{"name":"Local: back_track","url":"/home/amitrix/workplace/coding_Block/practice/back_track.cpp","tests":[{"id":1649348785930,"input":"5 5\nOOOXO\nOOXOO\nXOXOO\nXOOXX\nXXOOO","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/practice/back_track.cpp","group":"local","local":true}

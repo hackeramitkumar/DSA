@@ -1,0 +1,1 @@
+{"name":"Local: prime_visits","url":"/home/amitrix/workplace/coding_Block/number_theory_basics/prime_visits.cpp","tests":[{"id":1642493248205,"input":"2\n1 10\n10 20","output":"4\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/amitrix/workplace/coding_Block/number_theory_basics/prime_visits.cpp","group":"local","local":true}
